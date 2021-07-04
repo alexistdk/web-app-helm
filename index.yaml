@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  webapp-craftech:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-04T18:36:59.733812091-03:00"
+    description: A Helm chart for Kubernetes
+    digest: d26d5c5884ecc1760defb79402b853c13bc5759c130e9218d7063706123fd22e
+    name: webapp-craftech
+    type: application
+    urls:
+    - charts/webapp-craftech-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-04T18:36:59.732681438-03:00"
